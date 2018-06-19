@@ -1,3 +1,48 @@
+# Reactive Programming
+
+## Offical
+- [reactivex.io](http://reactivex.io/)
+- [RxJava](https://github.com/ReactiveX/RxJava)
+
+
+## Articles
+- [Gfycat for Android](http://blog.danlew.net/2014/06/30/gfycat-for-android/)
+- [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+- [Grokking RxJava, Part 2: Operator](http://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
+- [Grokking RxJava, Part 3: Reactive with Benefits](http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
+- [Grokking RxJava, Part 4: Reactive Android](http://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
+- [Learn RxJava](https://mindorks.com/course/learn-rxjava)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Meet RxJava: The Missing Reactive Programming Library for Android](https://www.toptal.com/android/functional-reactive-android-rxjava)
+- [Wiki RxJava](https://github.com/ReactiveX/RxJava/wiki)
+- [Crunching RxAndroid — Intro](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea)
+- [Reactive Java (33rd Degree)](https://www.slideshare.net/tkowalcz/33rd-degree-reactive-java)
+- [Mastering observables](https://developer.couchbase.com/documentation/server/3.x/developer/java-2.0/observables.html)
+- [2 minute introduction to Rx](https://medium.com/@andrestaltz/2-minute-introduction-to-rx-24c8ca793877)
+- [Understanding Types Of Observables In RxJava](https://blog.mindorks.com/understanding-types-of-observables-in-rxjava-6c3a2d0819c8)
+- [Understanding RxJava Subject — Publish, Replay, Behavior and Async Subject](https://blog.mindorks.com/understanding-rxjava-subject-publish-replay-behavior-and-async-subject-224d663d452f)
+
+- [RxAndroid Basics: Part 1](https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850)
+- [Why you should use RxJava in Android a short introduction to RxJava](http://blog.feedpresso.com/2016/01/25/why-you-should-use-rxjava-in-android-a-short-introduction-to-rxjava.html)
+
+## Videos
+- []()
+- []()
+
+## Podcast
+
+## Books
+- [Introduction to RxJava](http://www.introtorx.com/)
+- [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava)
+- []()
+
+## Sample App 
+- [rxjava-multiple-sources-sample](https://github.com/dlew/rxjava-multiple-sources-sample)
+- [android-gfycat](https://github.com/dlew/android-gfycat)
+- [RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples)
+
+
+
 # ConstraintLayout
 
 ## Articles
