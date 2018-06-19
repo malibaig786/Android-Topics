@@ -15,6 +15,8 @@
 - [ConstraintLayout in practice](https://blog.undabot.com/constraintlayout-in-practice-b3e47df7a618)
 - [ConstraintLayout & Android Studio Design Tools](https://speakerdeck.com/wasabeef/constraintlayout-and-android-studio-design-tools?slide=33)
 - [Getting your constraints right — ConstraintLayout](https://proandroiddev.com/getting-your-constraints-right-constraintlayout-786254ed1166)
+- [Android Tutorial How to Set Height and Width in Percentage of a Button with ConstraintLayout](https://android-coffee.com/tutorial-how-to-set-height-and-width-in-percentage-of-a-button-with-constraintlayout-in-android-studio/)
+- [Constraintlayout Android Equal Width and Height of all Views in Row](http://developine.com/constraintlayout-android-equal-width-and-height-of-all-views-in-row/)
 - [Android Constraint Layout – Circular Positioning](https://www.journaldev.com/21366/android-constraint-layout-circular-positioning)
 - [Introducing Constraint Layout 1.1](https://medium.com/google-developers/introducing-constraint-layout-1-1-d07fc02406bc)
 - [WHAT TO EXPECT FROM CONSTRAINTLAYOUT 2.0](https://novemberfive.co/blog/what-to-expect-from-constraint-layout-2)
