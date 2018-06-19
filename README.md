@@ -20,7 +20,11 @@
 - [WHAT TO EXPECT FROM CONSTRAINTLAYOUT 2.0](https://novemberfive.co/blog/what-to-expect-from-constraint-layout-2)
 
 ## Videos
-- [Android Constraint Layout](https://www.youtube.com/playlist?list=PLLOdaKKS6Wx7ZfGH1R-xrbwcGXZokncF6)
+- [YouTube ConstraintLayout](https://www.youtube.com/playlist?list=PLLOdaKKS6Wx7ZfGH1R-xrbwcGXZokncF6)
 - [Caster.io](https://caster.io/courses/constraint-layout)
 - [ConstraintLayout: It Can Do What Now?](https://academy.realm.io/posts/constraintlayout-it-can-do-what-now/)
+
 ## Podcasts
+- [Episode 50: Constraint Layout](https://player.fm/series/android-developers-backstage-1245114/episode-50-constraint-layout)
+- [Episode 60: Huyen Tue Dao](https://player.fm/series/android-developers-backstage/episode-60-huyen-tue-dao)
+- [050: GDE gentleman Mark Allison dissects Constraint Layouts](https://player.fm/series/fragmented-android-developer-podcast/050-gde-gentleman-mark-allison-dissects-constraint-layouts)
